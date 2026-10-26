@@ -1,0 +1,4 @@
+underwater_os
+underwater_os_log.csv
+*.o
+.DS_Store
